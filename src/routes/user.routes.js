@@ -5,6 +5,7 @@ import {upload} from "../middlewares/multur.middleware.js"
 
 const router = Router()
 
+
 router.route("/register").post(
     upload.fields([
         {

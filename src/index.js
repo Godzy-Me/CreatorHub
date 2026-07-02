@@ -1,5 +1,4 @@
 // required('dotenv').config({path:'./env'})
-
 import { app } from "./app.js";
 import dotenv from "dotenv"
 import { DB_NAME } from "./constants.js";
@@ -9,7 +8,7 @@ dns.setServers(["8.8.8.8", "1.1.1.1"]);  // this and the line above it fixed the
 
 
 dotenv.config({
-    path : '/.env'
+    path : './.env'
 })
 
 connectDB()
