@@ -1,6 +1,6 @@
 # 🎬 CreatorHub --- Backend API
 
-> A scalable backend for a YouTube and Twitter (X) inspired platform
+> A scalable backend API for a modern content-sharing platform featuring video publishing, social interactions, and secure media management.
 > built with **Node.js**, **Express.js**, **MongoDB**, and
 > **Cloudinary**.
 
@@ -15,16 +15,9 @@
 
 ## 📖 Overview
 
-YTX is a RESTful backend that recreates the core functionality of
-platforms like **YouTube** and **Twitter (X)**. It provides secure
-authentication, media uploads, video management, playlists, likes,
-comments, subscriptions, tweets, and channel analytics through modular
-APIs.
+CreatorHub is a scalable RESTful backend API for a modern content-sharing platform. It enables users to publish and manage videos, interact through comments and likes, create playlists, subscribe to creators, share short-form posts, and manage media securely using cloud storage.
 
-The project follows a clean Express architecture by separating
-**routes**, **controllers**, **models**, **middlewares**, and
-**utilities**, making it easier to maintain and extend.
-
+Built with Node.js, Express.js, and MongoDB, the project follows a modular architecture by separating routes, controllers, models, middlewares, and utilities. This structure promotes clean code, scalability, and maintainability while demonstrating real-world backend development practices.
 ------------------------------------------------------------------------
 
 # ✨ Features
