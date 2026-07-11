@@ -15,7 +15,7 @@
 
 ## 📖 Overview
 
-CreatorHub is a scalable RESTful backend API for a modern content-sharing platform. It enables users to publish and manage videos, interact through comments and likes, create playlists, subscribe to creators, share short-form posts, and manage media securely using cloud storage.
+ is a scalable RESTful backend API for a modern content-sharing platform. It enables users to publish and manage videos, interact through comments and likes, create playlists, subscribe to creators, share short-form posts, and manage media securely using cloud storage.
 
 Built with Node.js, Express.js, and MongoDB, the project follows a modular architecture by separating routes, controllers, models, middlewares, and utilities. This structure promotes clean code, scalability, and maintainability while demonstrating real-world backend development practices.
 ------------------------------------------------------------------------
@@ -204,7 +204,7 @@ population or aggregation pipelines.
 # 🚀 Installation
 
 ``` bash
-git clone https://github.com/Godzy-Me/CreatorHub-.git
+git clone https://github.com/Godzy-Me/CreatorHub.git
 cd CreatorHub
 npm install
 ```
