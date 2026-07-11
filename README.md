@@ -255,7 +255,7 @@ Uploads supported:
 
 ------------------------------------------------------------------------
 
-# 📚 What I Learned
+# 📚 Main Intention
 
 -   Building scalable Express applications
 -   JWT authentication using access and refresh tokens
@@ -281,8 +281,6 @@ Uploads supported:
 ------------------------------------------------------------------------
 
 # 👨‍💻 Author
-
-**Pradnesh K**
 
 GitHub: https://github.com/Godzy-Me
 
