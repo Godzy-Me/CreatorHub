@@ -106,6 +106,4 @@ MongoDB
 
 ## 👨‍💻 Author
 
-**Pradnesh K**
-
 GitHub: https://github.com/Godzy-Me
