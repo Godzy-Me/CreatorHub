@@ -1,4 +1,4 @@
-# 🎬 YTX --- Backend API
+# 🎬 CreatorHub --- Backend API
 
 > A scalable backend for a YouTube and Twitter (X) inspired platform
 > built with **Node.js**, **Express.js**, **MongoDB**, and
