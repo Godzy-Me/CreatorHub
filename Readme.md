@@ -185,8 +185,6 @@ The project makes extensive use of MongoDB Aggregation Pipelines for:
 
 ## 👨‍💻 Author
 
-**Pradnesh K**
-
 GitHub: https://github.com/Godzy-Me
 
 ---
