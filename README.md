@@ -205,7 +205,7 @@ population or aggregation pipelines.
 
 ``` bash
 git clone https://github.com/Godzy-Me/CreatorHub-.git
-cd CreatorHub-
+cd CreatorHub
 npm install
 ```
 
